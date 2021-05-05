@@ -1,4 +1,4 @@
-# machineLearning
+# Machine Learning Examples
 ![Adsız](https://user-images.githubusercontent.com/48391281/117165949-9cc5a980-adce-11eb-9500-6d8833375511.png)
 
 
